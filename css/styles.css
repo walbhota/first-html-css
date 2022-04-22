@@ -9,7 +9,7 @@
 html, body {
       width: 100%;
       height: 100vh;
-      background: #DCFF7C;
+      background: #f07cff;
 }
 
 .wrapper {
@@ -33,14 +33,14 @@ html, body {
 }
 
 .nav a:first-child {
-      color: #DCFF7C;
+      color: #f07cff;
 }
 
 .about p {
       width: 30%;
       font-family: Helvetica, sans-serif;
       font-weight: 300;
-      color: #969696;
+      color: coral;
       text-transform: uppercase;
       margin: 1.6em;
 }
@@ -87,7 +87,7 @@ html, body {
       text-transform: uppercase;
       font-family: Helvetica, sans-serif;
       font-weight: 300;
-      color: #969696;
+      color: coral;
 }
 
 a.contact-link {
